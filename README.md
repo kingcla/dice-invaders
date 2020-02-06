@@ -2,6 +2,8 @@
 
 Simple "Space Invaders" clone written in C++.
 
+![demo](https://github.com/kingcla/dice-invaders/blob/master/demo/screen.png)
+
 ## Development
 
 To develop the game Visual Studio 2010 was initially used. The project was recently upgraded for Visual Studio 2019.
